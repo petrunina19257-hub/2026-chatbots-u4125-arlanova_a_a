@@ -1,0 +1,20 @@
+# секреты
+.env
+credentials.json
+
+# данные и логи бота
+*.db
+*.log
+*.log.*
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# система
+.DS_Store
+.idea/
+.vscode/
